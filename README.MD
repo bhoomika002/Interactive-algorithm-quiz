@@ -1,4 +1,4 @@
-# 🚀 Algorithm Quiz App
+# 🚀 Interactive algorithm quiz
 
 An interactive quiz application built with **HTML, CSS, and JavaScript**.  
 Test your knowledge of algorithms and data structures in a fun way!
@@ -11,5 +11,6 @@ Test your knowledge of algorithms and data structures in a fun way!
 - Attractive UI with gradients and animations.
 - Progress bar to track quiz completion.
 - Reload option to retry the quiz.
+
 
 ---
